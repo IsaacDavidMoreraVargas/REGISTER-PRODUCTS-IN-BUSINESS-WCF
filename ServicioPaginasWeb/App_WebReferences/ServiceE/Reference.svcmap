@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ba2029aa-df36-4fbd-93c3-eecf2eea2856" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:60261/IEditar.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="IEditar.disco" MetadataType="Disco" ID="d392f621-0f9e-4ead-8b48-0b1d4594a9c0" SourceId="1" SourceUrl="http://localhost:60261/IEditar.svc?disco" />
+    <MetadataFile FileName="IEditar.xsd" MetadataType="Schema" ID="7f349c11-7b89-40ee-9128-b5cc2428cf78" SourceId="1" SourceUrl="http://localhost:60261/IEditar.svc?xsd=xsd2" />
+    <MetadataFile FileName="IEditar1.xsd" MetadataType="Schema" ID="2a592721-95a2-450f-ab5a-8d2cad5fab15" SourceId="1" SourceUrl="http://localhost:60261/IEditar.svc?xsd=xsd1" />
+    <MetadataFile FileName="IIEditar.wsdl" MetadataType="Wsdl" ID="1358270c-ef92-4197-82b2-5f356570bf0f" SourceId="1" SourceUrl="http://localhost:60261/IEditar.svc?wsdl" />
+    <MetadataFile FileName="IEditar2.xsd" MetadataType="Schema" ID="9b000c78-a0c2-4039-bb2a-ee5f361d6370" SourceId="1" SourceUrl="http://localhost:60261/IEditar.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

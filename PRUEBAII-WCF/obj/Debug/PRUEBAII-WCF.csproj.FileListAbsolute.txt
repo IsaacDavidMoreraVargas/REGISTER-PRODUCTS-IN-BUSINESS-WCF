@@ -1,0 +1,21 @@
+C:\Users\usuario16\Desktop\PRUEBAII-WCF\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.csproj.CoreCompileInputs.cache
+C:\Users\usuario16\Desktop\PRUEBAII-WCF\PRUEBAII-WCF\bin\PRUEBAII-WCF.dll.config
+C:\Users\usuario16\Desktop\PRUEBAII-WCF\PRUEBAII-WCF\bin\PRUEBAII-WCF.dll
+C:\Users\usuario16\Desktop\PRUEBAII-WCF\PRUEBAII-WCF\bin\PRUEBAII-WCF.pdb
+C:\Users\usuario16\Desktop\PRUEBAII-WCF\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.dll
+C:\Users\usuario16\Desktop\PRUEBAII-WCF\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.pdb
+C:\Users\usuario16\Desktop\PRUEBAII-WCF\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.csprojAssemblyReference.cache
+C:\Users\usuario16\Desktop\PRUEBAII\PRUEBAII-WCF\bin\PRUEBAII-WCF.dll.config
+C:\Users\usuario16\Desktop\PRUEBAII\PRUEBAII-WCF\bin\PRUEBAII-WCF.dll
+C:\Users\usuario16\Desktop\PRUEBAII\PRUEBAII-WCF\bin\PRUEBAII-WCF.pdb
+C:\Users\usuario16\Desktop\PRUEBAII\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.csprojAssemblyReference.cache
+C:\Users\usuario16\Desktop\PRUEBAII\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.csproj.CoreCompileInputs.cache
+C:\Users\usuario16\Desktop\PRUEBAII\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.dll
+C:\Users\usuario16\Desktop\PRUEBAII\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.pdb
+C:\Users\Alcatraz\Desktop\Nueva carpeta\03075-FUNDAMENTOS PROGRAMACION WEB\PRUEBAII\PRUEBAII-WCF\bin\PRUEBAII-WCF.dll.config
+C:\Users\Alcatraz\Desktop\Nueva carpeta\03075-FUNDAMENTOS PROGRAMACION WEB\PRUEBAII\PRUEBAII-WCF\bin\PRUEBAII-WCF.dll
+C:\Users\Alcatraz\Desktop\Nueva carpeta\03075-FUNDAMENTOS PROGRAMACION WEB\PRUEBAII\PRUEBAII-WCF\bin\PRUEBAII-WCF.pdb
+C:\Users\Alcatraz\Desktop\Nueva carpeta\03075-FUNDAMENTOS PROGRAMACION WEB\PRUEBAII\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.csprojAssemblyReference.cache
+C:\Users\Alcatraz\Desktop\Nueva carpeta\03075-FUNDAMENTOS PROGRAMACION WEB\PRUEBAII\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.csproj.CoreCompileInputs.cache
+C:\Users\Alcatraz\Desktop\Nueva carpeta\03075-FUNDAMENTOS PROGRAMACION WEB\PRUEBAII\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.dll
+C:\Users\Alcatraz\Desktop\Nueva carpeta\03075-FUNDAMENTOS PROGRAMACION WEB\PRUEBAII\PRUEBAII-WCF\obj\Debug\PRUEBAII-WCF.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b42ba6f8-ee02-4281-8ee2-e8585662d6a9" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:60261/IBuscar.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="IBuscar.xsd" MetadataType="Schema" ID="57d2f17b-36cc-4583-b3a6-d4cc3f6e98c6" SourceId="1" SourceUrl="http://localhost:60261/IBuscar.svc?xsd=xsd0" />
+    <MetadataFile FileName="IBuscar1.xsd" MetadataType="Schema" ID="c7110761-4444-48c7-8139-27fca8e49ab7" SourceId="1" SourceUrl="http://localhost:60261/IBuscar.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service2.wsdl" MetadataType="Wsdl" ID="b65f8606-b518-4493-8c73-7ea28a04b662" SourceId="1" SourceUrl="http://localhost:60261/IBuscar.svc?wsdl" />
+    <MetadataFile FileName="IBuscar2.xsd" MetadataType="Schema" ID="c98a3168-a71c-43a5-b301-2cd226aab11d" SourceId="1" SourceUrl="http://localhost:60261/IBuscar.svc?xsd=xsd2" />
+    <MetadataFile FileName="IBuscar.disco" MetadataType="Disco" ID="068e6865-1ec3-412e-9757-53f2b655ee0a" SourceId="1" SourceUrl="http://localhost:60261/IBuscar.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

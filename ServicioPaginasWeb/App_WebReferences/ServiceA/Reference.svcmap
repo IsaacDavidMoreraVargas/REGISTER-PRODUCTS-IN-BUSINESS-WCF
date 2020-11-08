@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cab59019-b411-4976-831e-57ea08f50e45" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:60261/IAgregar.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="d6bb3d65-0ad4-489c-908b-903c203166c3" SourceId="1" SourceUrl="http://localhost:60261/IAgregar.svc?wsdl" />
+    <MetadataFile FileName="IAgregar.xsd" MetadataType="Schema" ID="0b6a26fe-69f6-4bb0-9a1b-5e3b3599f162" SourceId="1" SourceUrl="http://localhost:60261/IAgregar.svc?xsd=xsd1" />
+    <MetadataFile FileName="IAgregar.disco" MetadataType="Disco" ID="e0bc01cf-4339-4dc4-ba12-fd5346981024" SourceId="1" SourceUrl="http://localhost:60261/IAgregar.svc?disco" />
+    <MetadataFile FileName="IAgregar1.xsd" MetadataType="Schema" ID="776c5180-cd14-417a-be27-84b2476c0ef5" SourceId="1" SourceUrl="http://localhost:60261/IAgregar.svc?xsd=xsd2" />
+    <MetadataFile FileName="IAgregar2.xsd" MetadataType="Schema" ID="d8a8cab9-f0d6-4131-ae9f-2ff0b973f4d6" SourceId="1" SourceUrl="http://localhost:60261/IAgregar.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
